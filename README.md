@@ -64,5 +64,21 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-TeslaFi is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://teslafi.com/
+TeslaFi provides a cloud-based data logger and analytics platform for Tesla vehicle owners. It automatically records drives, charges, and parked time, offering detailed maps, charts, cost analysis, and alerts. Users can view drive logs, energy efficiency, and generate reports, with features like auto-tagged locations, trip summaries, and sharing via public links. The service includes a 14‑day free trial without requiring payment information and supports integration with Alexa and other tools.
+
+**Areas:** Company · Tesla · Data-Logger · Vehicle-Analytics · API
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://teslafi.com/)
+- [Documentation](https://teslafi.com/)
+- [Getting started](https://teslafi.com/signup.php)
+- [Support](https://help.teslafi.com/hc/en-us)
+- [Terms of service](https://teslafi.com/terms.php)
+- [Privacy policy](https://teslafi.com/privacy.php)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/teslafi/](https://apis.io/providers/teslafi/).
